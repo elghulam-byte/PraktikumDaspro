@@ -1,5 +1,5 @@
 Ghulam El Firdausy/254107020203
 Teknologi Informasi/D-IV Teknik Informatika
 
-fitur 1
-fitur 2
+ini fitur 1
+ini fitur 3
